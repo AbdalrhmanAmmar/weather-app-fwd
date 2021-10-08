@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: yellowgreen;
+}
+.text-white{
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+
+input{
+    margin-top: 15px;
+    border-radius: 20px;
+    border: none;
+    background: #adb5bd;
+    border: 2px solid #0E101E;
+}
+input::placeholder{
+    color: rgb(0, 47, 255);
+    text-align: center;
+    font-weight: bold;
+}
+button{
+    margin-top: 15px;
+    padding: 10px 0px;
+    padding: 0px 50px;
+    border-radius: 20px;
+    border: none;
+    background: #adb5bd;
+    border: 2px solid #0E101E;}
+
+    #div{
+        color: white;
+        font-size: 30px;
+    }
+    #time{
+        color: rgb(255, 0, 0);
+        font-size: 30px;
+    }
